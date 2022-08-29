@@ -11,3 +11,4 @@ As outlined in the presentation, the models that will be used are:
 
 The dataset that will be used is [here](https://github.com/karen-trena/Final_Bootcamp_Project/blob/main/CCGENERAL.csv)
 
+I will work on this project on my own because I wasn´t sure I was going to be able to finish the course. I had delays on my Challenge deliverables and had to work on those first. I didn´t want to delay anyone else with their own projects so I decided to work on my own.
